@@ -1,1 +1,1 @@
-web: gunicorn flask-microblog222:app
+web: gunicorn runp-heroku:app
